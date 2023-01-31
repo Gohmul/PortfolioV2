@@ -20,7 +20,7 @@
                 <a className="nav-item5" href="https://www.linkedin.com/in/ryan-saucier/" target="_blank">Linkedin</a>
             </h2>
             <h2>
-            <a className="nav-item5" href="https://www.linkedin.com/in/ryan-saucier/" target="_blank">Repository</a>
+            <a className="nav-item5" href="https://github.com/Gohmul/PortfolioV2" target="_blank">Repository</a>
             </h2>
             {/* <h2  className="nav-item4" onClick={((e) => navigate(-1))}>Back</h2> */}
       </Menu>
