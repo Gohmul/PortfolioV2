@@ -20,7 +20,12 @@ export default function About () {
         </div>
         <div className="section1">
             <h1>About Me</h1>
-            <p>About xD</p>
+            <p className='about-me-desc'>
+            My Name is Ryan Saucier, I am an object-oriented programmer from Massachusetts. <br></br>
+            Driven by a passion for learning new ways to develop products. <br></br>
+            I aim to provide code that is easy to read and efficient. <br></br>
+            I value hard work, communication, and there's always a solution to everything. 
+            </p>
         </div>
         <div className='skills'>
             <h1>Languages and Frameworks</h1>

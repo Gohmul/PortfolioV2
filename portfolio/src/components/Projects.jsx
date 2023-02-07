@@ -12,6 +12,9 @@ export default function Projects()  {
         <div className="project-container">
             <div className="project">
                 <h1>Tic-Tac-Toe</h1>
+                <p className="project-desc">
+                My first coding project.
+                </p>
                 <img className="project-image" src={Tictactoe}/>
                 <div className="buttons">
                 <button className="button">
@@ -23,13 +26,14 @@ export default function Projects()  {
                     </a>
                 </button>
                 </div>
-                <p className="project-desc">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum numquam unde mollitia ipsa error vero consequatur rem iure, blanditiis omnis voluptatem harum esse quidem officiis. Blanditiis voluptates minus aut vitae! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque dolores expedita voluptatibus commodi, eligendi maxime consectetur neque repudiandae impedit fuga est possimus at quam fugiat voluptatum vero necessitatibus quod explicabo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum adipisci molestias, omnis cumque doloremque nobis sunt aspernatur impedit aut nemo, animi numquam enim vero rem odio, ipsam architecto! Nostrum, quod? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius consequuntur consequatur sed reiciendis aliquid commodi, dolores fugiat iure pariatur debitis odit, odio enim eum incidunt dolorum. Asperiores enim possimus aspernatur?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam amet tempore eveniet alias quos, illum ea dolorum natus autem, eaque asperiores ut. Obcaecati porro ad impedit minima quasi quam commodi!Loremlore  Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto tenetur possimus, quod minima nostrum aut exercitationem in, ab minus obcaecati. Fuga velit obcaecati soluta excepturi incidunt atque ad at?
-                </p>
+
 
             </div>
             <div className="project">
                 <h1>Blackjack</h1>
+                <p className="project-desc">
+                A Blackjack game developed in a week.
+                </p> 
                 <img className="project-image"  src={Blackjack}/>
                 <div className="buttons">     
                 <button className="button">
@@ -43,14 +47,15 @@ export default function Projects()  {
                     </a>
                 </button>
                 </div> 
-                <p className="project-desc">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum numquam unde mollitia ipsa error vero consequatur rem iure, blanditiis omnis voluptatem harum esse quidem officiis. Blanditiis voluptates minus aut vitae! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque dolores expedita voluptatibus commodi, eligendi maxime consectetur neque repudiandae impedit fuga est possimus at quam fugiat voluptatum vero necessitatibus quod explicabo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum adipisci molestias, omnis cumque doloremque nobis sunt aspernatur impedit aut nemo, animi numquam enim vero rem odio, ipsam architecto! Nostrum, quod? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius consequuntur consequatur sed reiciendis aliquid commodi, dolores fugiat iure pariatur debitis odit, odio enim eum incidunt dolorum. Asperiores enim possimus aspernatur?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam amet tempore eveniet alias quos, illum ea dolorum natus autem, eaque asperiores ut. Obcaecati porro ad impedit minima quasi quam commodi!Loremlore  Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto tenetur possimus, quod minima nostrum aut exercitationem in, ab minus obcaecati. Fuga velit obcaecati soluta excepturi incidunt atque ad at?
-                </p>          
+         
 
 
             </div>
             <div className="project">
                 <h1>Yugioh Card Api Site</h1>
+                <p className="project-desc">
+                    A website using a Yu-gi-oh card API that lists all of the cards and there market values.
+                </p>  
                 <img className="project-image"  src={Yugiohapi}/>
                 <div className="buttons">          
                 <button className="button">
@@ -64,14 +69,15 @@ export default function Projects()  {
                     </a>
                 </button>
                 </div>
-                <p className="project-desc">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum numquam unde mollitia ipsa error vero consequatur rem iure, blanditiis omnis voluptatem harum esse quidem officiis. Blanditiis voluptates minus aut vitae! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque dolores expedita voluptatibus commodi, eligendi maxime consectetur neque repudiandae impedit fuga est possimus at quam fugiat voluptatum vero necessitatibus quod explicabo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum adipisci molestias, omnis cumque doloremque nobis sunt aspernatur impedit aut nemo, animi numquam enim vero rem odio, ipsam architecto! Nostrum, quod? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius consequuntur consequatur sed reiciendis aliquid commodi, dolores fugiat iure pariatur debitis odit, odio enim eum incidunt dolorum. Asperiores enim possimus aspernatur?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam amet tempore eveniet alias quos, illum ea dolorum natus autem, eaque asperiores ut. Obcaecati porro ad impedit minima quasi quam commodi!Loremlore  Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto tenetur possimus, quod minima nostrum aut exercitationem in, ab minus obcaecati. Fuga velit obcaecati soluta excepturi incidunt atque ad at?
-                </p>   
+ 
    
 
             </div>
             <div className="project">
                 <h1>DLS Games MOCK Website </h1>
+                <p className="project-desc">
+                A Fullstack website that lists all owned arcade machines and there location using React, Firebase, and Django.
+                </p> 
                 <img className="project-image" src={DLS}/>
                 <div className="buttons">
                 <button className="button">
@@ -81,13 +87,14 @@ export default function Projects()  {
                 </button>
                 <button className="button">DEPLOYED LINK</button>
                 </div>
-                <p className="project-desc">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum numquam unde mollitia ipsa error vero consequatur rem iure, blanditiis omnis voluptatem harum esse quidem officiis. Blanditiis voluptates minus aut vitae! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque dolores expedita voluptatibus commodi, eligendi maxime consectetur neque repudiandae impedit fuga est possimus at quam fugiat voluptatum vero necessitatibus quod explicabo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum adipisci molestias, omnis cumque doloremque nobis sunt aspernatur impedit aut nemo, animi numquam enim vero rem odio, ipsam architecto! Nostrum, quod? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius consequuntur consequatur sed reiciendis aliquid commodi, dolores fugiat iure pariatur debitis odit, odio enim eum incidunt dolorum. Asperiores enim possimus aspernatur?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam amet tempore eveniet alias quos, illum ea dolorum natus autem, eaque asperiores ut. Obcaecati porro ad impedit minima quasi quam commodi!Loremlore  Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto tenetur possimus, quod minima nostrum aut exercitationem in, ab minus obcaecati. Fuga velit obcaecati soluta excepturi incidunt atque ad at?
-                </p>                
+               
 
             </div>
             <div className="project">
                 <h1>Mock Instrument Store </h1>
+                <p className="project-desc">
+                A Fullstack Instrument Store website using React and Sequelize
+                </p> 
                 <img className="project-image" src={instrumentstore}/>
                 <div className="buttons">
                 <button className="button">
@@ -97,13 +104,14 @@ export default function Projects()  {
                 </button>
                 <button className="button">DEPLOYED LINK</button>
             </div>
-                <p className="project-desc">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum numquam unde mollitia ipsa error vero consequatur rem iure, blanditiis omnis voluptatem harum esse quidem officiis. Blanditiis voluptates minus aut vitae! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque dolores expedita voluptatibus commodi, eligendi maxime consectetur neque repudiandae impedit fuga est possimus at quam fugiat voluptatum vero necessitatibus quod explicabo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum adipisci molestias, omnis cumque doloremque nobis sunt aspernatur impedit aut nemo, animi numquam enim vero rem odio, ipsam architecto! Nostrum, quod? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius consequuntur consequatur sed reiciendis aliquid commodi, dolores fugiat iure pariatur debitis odit, odio enim eum incidunt dolorum. Asperiores enim possimus aspernatur?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam amet tempore eveniet alias quos, illum ea dolorum natus autem, eaque asperiores ut. Obcaecati porro ad impedit minima quasi quam commodi!Loremlore  Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto tenetur possimus, quod minima nostrum aut exercitationem in, ab minus obcaecati. Fuga velit obcaecati soluta excepturi incidunt atque ad at?
-                </p>                
+               
 
             </div>
             <div className="project">
                 <h1>Mock Venue Tracker </h1>
+                <p className="project-desc">
+                A Fullstack Venue Tracking website using React and Django
+                </p>   
                 <img className="project-image" src={venuetracker}/>
                 <div className="buttons">
                 <button className="button">
@@ -112,10 +120,7 @@ export default function Projects()  {
                     </a>
                 </button>
                 <button className="button">DEPLOYED LINK</button>
-                </div>
-                <p className="project-desc">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum numquam unde mollitia ipsa error vero consequatur rem iure, blanditiis omnis voluptatem harum esse quidem officiis. Blanditiis voluptates minus aut vitae! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque dolores expedita voluptatibus commodi, eligendi maxime consectetur neque repudiandae impedit fuga est possimus at quam fugiat voluptatum vero necessitatibus quod explicabo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum adipisci molestias, omnis cumque doloremque nobis sunt aspernatur impedit aut nemo, animi numquam enim vero rem odio, ipsam architecto! Nostrum, quod? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius consequuntur consequatur sed reiciendis aliquid commodi, dolores fugiat iure pariatur debitis odit, odio enim eum incidunt dolorum. Asperiores enim possimus aspernatur?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam amet tempore eveniet alias quos, illum ea dolorum natus autem, eaque asperiores ut. Obcaecati porro ad impedit minima quasi quam commodi!Loremlore  Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto tenetur possimus, quod minima nostrum aut exercitationem in, ab minus obcaecati. Fuga velit obcaecati soluta excepturi incidunt atque ad at?
-                </p>                
+                </div>             
 
             </div>
         </div>
